@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Eslam Negm, Mobile Application Developer, Flutter and Dart">
+<style>
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes up{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.t{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.a{animation:up .9s ease-out both}.b{animation:up .9s .15s ease-out both}.c{animation:up .9s .3s ease-out both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="300" rx="24" fill="#f3f4f8"/>
+<g fill="none" stroke="#dde1ea" stroke-width="1.5"><circle cx="1010" cy="150" r="62"/><circle cx="1010" cy="150" r="98"/><circle cx="1010" cy="150" r="132"/></g>
+<rect x="988" y="112" width="44" height="76" rx="10" fill="#0d1322"/><rect x="993" y="119" width="34" height="62" rx="6" fill="#1d4ed8"/>
+<g style="transform-origin:1010px 150px;animation:spin 18s linear infinite;animation-delay:-0.0s"><circle cx="1072" cy="150" r="9" fill="#c9a45c"/></g><g style="transform-origin:1010px 150px;animation:spin 18s linear infinite;animation-delay:-2.3s"><circle cx="1072" cy="150" r="9" fill="#e8c500"/></g><g style="transform-origin:1010px 150px;animation:spin 26s linear infinite;animation-delay:-4.6s"><circle cx="1108" cy="150" r="9" fill="#6a5fa0"/></g><g style="transform-origin:1010px 150px;animation:spin 26s linear infinite;animation-delay:-6.9s"><circle cx="1108" cy="150" r="9" fill="#2f6f93"/></g><g style="transform-origin:1010px 150px;animation:spin 26s linear infinite;animation-delay:-9.2s"><circle cx="1108" cy="150" r="9" fill="#2f7d4a"/></g><g style="transform-origin:1010px 150px;animation:spin 34s linear infinite;animation-delay:-11.5s"><circle cx="1142" cy="150" r="7" fill="#3d6b55"/></g><g style="transform-origin:1010px 150px;animation:spin 34s linear infinite;animation-delay:-13.8s"><circle cx="1142" cy="150" r="7" fill="#22a9c8"/></g><g style="transform-origin:1010px 150px;animation:spin 34s linear infinite;animation-delay:-16.1s"><circle cx="1142" cy="150" r="7" fill="#a8743a"/></g>
+<text class="t a" x="72" y="128" font-size="64" font-weight="800" fill="#0d1322" letter-spacing="-1.5">Eslam Negm<tspan fill="#1d4ed8">.</tspan></text>
+<text class="t b" x="74" y="176" font-size="26" font-weight="500" fill="#5b6476">Mobile Application Developer <tspan fill="#1d4ed8" font-weight="700">· Flutter &amp; Dart</tspan></text>
+<text class="t c" x="74" y="226" font-size="19" fill="#5b6476">8 apps live on the App Store and Google Play</text>
+</svg>
