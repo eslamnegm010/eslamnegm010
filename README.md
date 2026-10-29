@@ -14,6 +14,20 @@
 
 I build scalable, high-performance apps for iOS and Android, turning complex business requirements into smooth products people enjoy using. Clean Architecture keeps every codebase easy to grow, and I take an app from the first screen to the store release. I have shipped games, e-commerce, booking, social, event and enterprise apps.
 
+## Featured: Chrono Strike
+
+<p align="center">
+  <a href="https://eslamnegm.is-a.dev/chrono-maze/"><img src="assets/chrono-strike.jpg" alt="Chrono Strike" width="820"></a>
+</p>
+
+<table>
+  <tr>
+    <td width="72"><img src="assets/chrono-strike-logo.png" width="56" alt="Chrono Strike icon"></td>
+    <td><b>Chrono Strike</b> · Browser game<br>A neon 3D FPS where time only moves when you move: stand still and bullets freeze mid-air. Solo robot waves, online co-op (up to 4) and PvP time duels (up to 8) over peer-to-peer WebRTC with no server, touch controls for mobile and 9 languages. Built on my own with three.js and Vite.</td>
+    <td width="120"><a href="https://eslamnegm.is-a.dev/chrono-maze/"><b>Play now</b></a></td>
+  </tr>
+</table>
+
 ## Apps on the stores
 
 <table>
@@ -74,6 +88,7 @@ I build scalable, high-performance apps for iOS and Android, turning complex bus
 | Firebase | Auth · Firestore · Realtime DB · Storage · Cloud Functions · FCM · Remote Config · Crashlytics · App Check |
 | UI | Custom widgets · Animations · CustomPainter · Theming · Localization & RTL · GoRouter · AutoRoute · Deep links |
 | Security & storage | AES / RSA · Secure storage · Hive · SQLite · Offline-first |
+| Games & web | three.js · WebGL · WebRTC (P2P) · Vite · PWA |
 | Monetization | AdMob · RevenueCat · In-app purchases |
 | Delivery & quality | Git · Azure Pipelines · Fastlane · Shorebird · Unit and widget tests · DevTools profiling |
 
