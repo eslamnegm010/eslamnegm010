@@ -59,6 +59,30 @@ I build scalable, high-performance apps for iOS and Android, turning complex bus
   </tr>
 </table>
 
+## Claude Code skills
+
+### ai-dev-workflow
+
+<a href="https://github.com/eslamnegm010/ai-dev-workflow"><img src="assets/ai-dev-workflow.jpg" alt="ai-dev-workflow" width="100%"></a>
+
+My Claude Code skill for AI-assisted development: structured planning, implementation, quality gate and code review workflows that take a project from idea to shipped code. AI is a core part of how I work — this skill is the workflow behind it, published for anyone to use.
+
+<p>
+  <a href="https://github.com/eslamnegm010/ai-dev-workflow"><img alt="ai-dev-workflow on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.agensi.io/skills/ai-dev-workflow"><img alt="ai-dev-workflow on Agensi" src="https://img.shields.io/badge/Agensi-listed-7c3aed?style=for-the-badge"></a>
+</p>
+
+### web-game-skills
+
+<a href="https://github.com/eslamnegm010/web-game-skills"><img src="assets/web-game-skills.jpg" alt="web-game-skills" width="100%"></a>
+
+The complete toolkit behind the two games above: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review.
+
+<p>
+  <a href="https://github.com/eslamnegm010/web-game-skills"><img alt="web-game-skills on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="7 skills" src="https://img.shields.io/badge/Skills-7-0ea5e9?style=for-the-badge">
+</p>
+
 ## Browser games
 
 ### Chrono Strike · 3D FPS
@@ -80,30 +104,6 @@ A 2.5D tactical shooter: breach the door in slow motion, then clear the room. 12
 
 <p>
   <a href="https://eslamnegm.is-a.dev/swat-breacher/"><img alt="Play SWAT Breacher" src="https://img.shields.io/badge/Play_now-24824a?style=for-the-badge"></a>
-</p>
-
-## Claude Code skills
-
-### ai-dev-workflow
-
-<a href="https://github.com/eslamnegm010/ai-dev-workflow"><img src="assets/ai-dev-workflow.jpg" alt="ai-dev-workflow" width="440"></a>
-
-My Claude Code skill for AI-assisted development: structured planning, implementation, quality gate and code review workflows that take a project from idea to shipped code. AI is a core part of how I work — this skill is the workflow behind it, published for anyone to use.
-
-<p>
-  <a href="https://github.com/eslamnegm010/ai-dev-workflow"><img alt="ai-dev-workflow on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.agensi.io/skills/ai-dev-workflow"><img alt="ai-dev-workflow on Agensi" src="https://img.shields.io/badge/Agensi-listed-7c3aed?style=for-the-badge"></a>
-</p>
-
-### web-game-skills
-
-<a href="https://github.com/eslamnegm010/web-game-skills"><img src="assets/web-game-skills.jpg" alt="web-game-skills" width="440"></a>
-
-The complete toolkit behind the two games above: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review.
-
-<p>
-  <a href="https://github.com/eslamnegm010/web-game-skills"><img alt="web-game-skills on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img alt="7 skills" src="https://img.shields.io/badge/Skills-7-0ea5e9?style=for-the-badge">
 </p>
 
 ## Open source
