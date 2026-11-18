@@ -61,26 +61,48 @@ I build scalable, high-performance apps for iOS and Android, turning complex bus
 
 ## Browser games
 
-<table>
-  <tr>
-    <td width="72"><img src="assets/chrono-strike-logo.png" width="56" alt="Chrono Strike icon"></td>
-    <td><b>Chrono Strike</b> · 3D FPS<br>A neon 3D FPS where time only moves when you move: stand still and bullets freeze mid-air. Solo robot waves, online co-op (up to 4) and PvP time duels (up to 8) over peer-to-peer WebRTC with no server, touch controls for mobile and 12 languages. Rated 9.3/10 by its players. Built on my own with three.js and Vite.</td>
-    <td width="120"><a href="https://eslamnegm.is-a.dev/chrono-maze/"><b>Play now</b></a></td>
-  </tr>
-  <tr>
-    <td><img src="assets/swat-breacher.png" width="56" alt="SWAT Breacher icon"></td>
-    <td><b>SWAT Breacher</b> · Tactical shooter<br>A 2.5D tactical shooter: breach the door in slow motion, then clear the room. 125 floors across 5 towers, co-op and head-to-head race modes for two players, 12 languages. Built with three.js and Vite.</td>
-    <td><a href="https://eslamnegm.is-a.dev/swat-breacher/"><b>Play now</b></a></td>
-  </tr>
-</table>
+### Chrono Strike · 3D FPS
 
-## Open source & developer tools
+<a href="https://eslamnegm.is-a.dev/chrono-maze/"><img src="assets/chrono-strike.jpg" alt="Chrono Strike" width="440"></a>
 
-**[ai-dev-workflow](https://github.com/eslamnegm010/ai-dev-workflow)**: my Claude Code skill for AI-assisted development — structured planning, implementation, quality gate and code review workflows that take a project from idea to shipped. Also listed on [Agensi](https://www.agensi.io/skills/ai-dev-workflow).
+A neon 3D FPS where time only moves when you move: stand still and bullets freeze mid-air. Solo robot waves, online co-op (up to 4) and PvP time duels (up to 8) over peer-to-peer WebRTC with no server, touch controls for mobile and 12 languages. Built on my own with three.js and Vite — and rated **9.3/10** by its players.
 
-**[web-game-skills](https://github.com/eslamnegm010/web-game-skills)**: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review. The toolkit behind the two games above.
+<p>
+  <a href="https://eslamnegm.is-a.dev/chrono-maze/"><img alt="Play Chrono Strike" src="https://img.shields.io/badge/Play_now-24824a?style=for-the-badge"></a>
+  <img alt="Player rating: 9.3/10" src="https://img.shields.io/badge/Rating-9.3%2F10-f59e0b?style=for-the-badge">
+</p>
 
-**[job-hunt-workflow](https://github.com/eslamnegm010/job-hunt-workflow)**: a shared job-search workflow for a small network of developers — one repository as the single source of truth, with each member's AI assistant searching, verifying and reporting in parallel.
+### SWAT Breacher · Tactical shooter
+
+<a href="https://eslamnegm.is-a.dev/swat-breacher/"><img src="assets/swat-breacher-cover.jpg" alt="SWAT Breacher" width="440"></a>
+
+A 2.5D tactical shooter: breach the door in slow motion, then clear the room. 125 floors across 5 towers, co-op and head-to-head race modes for two players, 12 languages. Built with three.js and Vite.
+
+<p>
+  <a href="https://eslamnegm.is-a.dev/swat-breacher/"><img alt="Play SWAT Breacher" src="https://img.shields.io/badge/Play_now-24824a?style=for-the-badge"></a>
+</p>
+
+## Claude Code skills
+
+### [ai-dev-workflow](https://github.com/eslamnegm010/ai-dev-workflow)
+
+<p>
+  <a href="https://github.com/eslamnegm010/ai-dev-workflow"><img alt="ai-dev-workflow on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.agensi.io/skills/ai-dev-workflow"><img alt="ai-dev-workflow on Agensi" src="https://img.shields.io/badge/Agensi-listed-7c3aed?style=for-the-badge"></a>
+</p>
+
+My Claude Code skill for AI-assisted development: structured planning, implementation, quality gate and code review workflows that take a project from idea to shipped code. AI is a core part of how I work — this skill is the workflow behind it, published for anyone to use.
+
+### [web-game-skills](https://github.com/eslamnegm010/web-game-skills)
+
+<p>
+  <a href="https://github.com/eslamnegm010/web-game-skills"><img alt="web-game-skills on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="7 skills" src="https://img.shields.io/badge/Skills-7-0ea5e9?style=for-the-badge">
+</p>
+
+The complete toolkit behind the two games above: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review.
+
+## Open source
 
 **[reminder_App](https://github.com/eslamnegm010/reminder_App)**: time and location based reminders with Flutter Map, Geolocator and local notifications. Fully offline with Hive, complete English/Arabic localization with RTL layouts, Clean Architecture and Cubit.
 
