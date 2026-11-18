@@ -14,20 +14,6 @@
 
 I build scalable, high-performance apps for iOS and Android, turning complex business requirements into smooth products people enjoy using. Clean Architecture keeps every codebase easy to grow, and I take an app from the first screen to the store release. I have shipped games, e-commerce, booking, social, event and enterprise apps.
 
-## Featured: Chrono Strike
-
-<p align="center">
-  <a href="https://eslamnegm.is-a.dev/chrono-maze/"><img src="assets/chrono-strike.jpg" alt="Chrono Strike" width="820"></a>
-</p>
-
-<table>
-  <tr>
-    <td width="72"><img src="assets/chrono-strike-logo.png" width="56" alt="Chrono Strike icon"></td>
-    <td><b>Chrono Strike</b> · Browser game<br>A neon 3D FPS where time only moves when you move: stand still and bullets freeze mid-air. Solo robot waves, online co-op (up to 4) and PvP time duels (up to 8) over peer-to-peer WebRTC with no server, touch controls for mobile and 9 languages. Built on my own with three.js and Vite.</td>
-    <td width="120"><a href="https://eslamnegm.is-a.dev/chrono-maze/"><b>Play now</b></a></td>
-  </tr>
-</table>
-
 ## Apps on the stores
 
 <table>
@@ -73,7 +59,28 @@ I build scalable, high-performance apps for iOS and Android, turning complex bus
   </tr>
 </table>
 
-## Open source
+## Browser games
+
+<table>
+  <tr>
+    <td width="72"><img src="assets/chrono-strike-logo.png" width="56" alt="Chrono Strike icon"></td>
+    <td><b>Chrono Strike</b> · 3D FPS<br>A neon 3D FPS where time only moves when you move: stand still and bullets freeze mid-air. Solo robot waves, online co-op (up to 4) and PvP time duels (up to 8) over peer-to-peer WebRTC with no server, touch controls for mobile and 12 languages. Rated 9.3/10 by its players. Built on my own with three.js and Vite.</td>
+    <td width="120"><a href="https://eslamnegm.is-a.dev/chrono-maze/"><b>Play now</b></a></td>
+  </tr>
+  <tr>
+    <td><img src="assets/swat-breacher.png" width="56" alt="SWAT Breacher icon"></td>
+    <td><b>SWAT Breacher</b> · Tactical shooter<br>A 2.5D tactical shooter: breach the door in slow motion, then clear the room. 125 floors across 5 towers, co-op and head-to-head race modes for two players, 12 languages. Built with three.js and Vite.</td>
+    <td><a href="https://eslamnegm.is-a.dev/swat-breacher/"><b>Play now</b></a></td>
+  </tr>
+</table>
+
+## Open source & developer tools
+
+**[ai-dev-workflow](https://github.com/eslamnegm010/ai-dev-workflow)**: my Claude Code skill for AI-assisted development — structured planning, implementation, quality gate and code review workflows that take a project from idea to shipped. Also listed on [Agensi](https://www.agensi.io/skills/ai-dev-workflow).
+
+**[web-game-skills](https://github.com/eslamnegm010/web-game-skills)**: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review. The toolkit behind the two games above.
+
+**[job-hunt-workflow](https://github.com/eslamnegm010/job-hunt-workflow)**: a shared job-search workflow for a small network of developers — one repository as the single source of truth, with each member's AI assistant searching, verifying and reporting in parallel.
 
 **[reminder_App](https://github.com/eslamnegm010/reminder_App)**: time and location based reminders with Flutter Map, Geolocator and local notifications. Fully offline with Hive, complete English/Arabic localization with RTL layouts, Clean Architecture and Cubit.
 
@@ -90,6 +97,7 @@ I build scalable, high-performance apps for iOS and Android, turning complex bus
 | Security & storage | AES / RSA · Secure storage · Hive · SQLite · Offline-first |
 | Games & web | three.js · WebGL · WebRTC (P2P) · Vite · PWA |
 | Monetization | AdMob · RevenueCat · In-app purchases |
+| AI-assisted development | Claude Code · structured plan → implement → quality gate → review workflows |
 | Delivery & quality | Git · Azure Pipelines · Fastlane · Shorebird · Unit and widget tests · DevTools profiling |
 
 <p align="center"><a href="https://eslamnegm.is-a.dev"><b>See the apps in action on my portfolio →</b></a></p>
