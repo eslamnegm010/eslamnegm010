@@ -78,6 +78,16 @@ My Claude Code skill for AI-assisted development: structured planning, implement
 
 The complete toolkit behind the two games above: seven Claude Code skills for building and shipping browser games — project scaffolding, screenshots, browser QA, trailers, store assets, portal SDK adapters (CrazyGames, Y8, GamePix, Playgama) and game code review.
 
+| Skill | What it does |
+|---|---|
+| [web-game-kit](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-kit) | One command sets up a Vite game for shipping (platform layer, browser tests, store kit), then sends each job to the right skill |
+| [web-game-capture](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-capture) | Screenshots on iPhone, Android, iPad, Chromebook and desktop sizes in muted headless Chrome, with no npm install |
+| [web-game-qa](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-qa) | Browser test suites: smoke, phones in both orientations, and portal SDK checks against a fake CrazyGames SDK |
+| [web-game-trailer](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-trailer) | Films the game frame by frame under a fake clock, then cuts a trailer and the portal preview videos |
+| [web-game-store-assets](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-store-assets) | Covers in three sizes, an upload zip checked against size limits, listing text and a PASS/FAIL asset checker |
+| [web-game-portals](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/web-game-portals) | One `platform` object for ads, cloud saves and site mute, with tested adapters for CrazyGames, Y8, GamePix and Playgama |
+| [game-code-review](https://github.com/eslamnegm010/web-game-skills/tree/main/skills/game-code-review) | A reviewer for game code and AI-agent changes: frame-loop allocations, undisposed GPU resources, leaked secrets, invented APIs |
+
 <p>
   <a href="https://github.com/eslamnegm010/web-game-skills"><img alt="web-game-skills on GitHub" src="https://img.shields.io/badge/GitHub-repo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <img alt="7 skills" src="https://img.shields.io/badge/Skills-7-0ea5e9?style=for-the-badge">
